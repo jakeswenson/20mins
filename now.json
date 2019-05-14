@@ -1,0 +1,1 @@
+{"version":2,"name":"20mins","builds":[{"src":"deck.mdx","use":"@now/mdx-deck"}]}
