@@ -1,5 +1,6 @@
 {
     "version": 2,
     "name": "20mins",
-    "builds": [{ "src": "package.json", "use": "@now/static-build" }]
+    "builds": [{ "src": "package.json", "use": "@now/static-build" }],
+    "alias": "20-min-workout.swenson.dev"
 }
