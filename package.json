@@ -8,7 +8,8 @@
     "mdx-deck": "^2.3.2"
   },
   "scripts": {
-    "start": "mdx-deck deck.mdx"
+    "start": "mdx-deck deck.mdx",
+    "now-build": "mdx-deck build deck.mdx -d dist"
   },
   "repository": {
     "type": "git",
