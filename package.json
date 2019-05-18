@@ -1,0 +1,23 @@
+{
+  "name": "20mins",
+  "version": "1.0.0",
+  "description": "Work it",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mdx-deck": "^2.3.2"
+  },
+  "scripts": {
+    "start": "mdx-deck deck.mdx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakeswenson/20mins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakeswenson/20mins/issues"
+  },
+  "homepage": "https://github.com/jakeswenson/20mins#readme"
+}
